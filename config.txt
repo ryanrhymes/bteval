@@ -1,0 +1,14 @@
+[bt_dir]:~/BitTorrent-4.0.0-GPL
+[conf_dir]:~/scripts-bt/jobs
+[data_dir]:~/experiment
+[deploy_dir]:/fs-3/e/lxwang
+[deploy_data_dir]:/var/tmp/lxwang
+[sleep_interval]:20
+[reset_interval]:-1
+[exp_interval]:3600
+[tracker]:http://ukko239:6969
+[files]:
+[fsize]:2000
+[email]:ryanrhymes@gmail.com
+[node_pattern]:ukko???
+[info]:This is the experiments on Ukko cluster.
